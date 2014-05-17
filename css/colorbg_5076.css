@@ -8,7 +8,11 @@
 
 	background-size:cover;	
 
-	background: rgba(12, 211, 252, 0.317647);
+	background: linear-gradient(left , rgba(13, 34, 225, 0.4) 42% , rgb(90, 79, 54) 87%);
+background: -o-linear-gradient(left , rgba(13, 34, 225, 0.4) 42% , rgb(90, 79, 54) 87%);
+background: -ms-linear-gradient(left , rgba(13, 34, 225, 0.4) 42% , rgb(90, 79, 54) 87%);
+background: -moz-linear-gradient(left , rgba(13, 34, 225, 0.4) 42% , rgb(90, 79, 54) 87%);
+background: -webkit-linear-gradient(left , rgba(13, 34, 225, 0.4) 42% , rgb(90, 79, 54) 87%);
 
 
 
